@@ -1,0 +1,6 @@
+{
+  "name": "Radiation Dose FDM Simulator",
+  "description": "Optimizing Radiation Dose Distribution in Cancer Treatment Using Finite Difference Method with Analytical Solution for Reduced Healthy Tissue Exposure",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
